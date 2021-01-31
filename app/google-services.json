@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421440275911",
+    "project_id": "contatinhos-e766f",
+    "storage_bucket": "contatinhos-e766f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421440275911:android:442cd06479db7b8ab785e2",
+        "android_client_info": {
+          "package_name": "br.com.jeiferson.contatinhos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421440275911-uagpft381vnj9mo47k7e2qmbfkfv1t40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jeiferson.contatinhos",
+            "certificate_hash": "1016f8ca6343e8be37a297240ae31fbe60e36858"
+          }
+        },
+        {
+          "client_id": "421440275911-5ckmg1jl24nt8cvhkv3ktst4qv9c4ake.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnv-FfW1wso53WtTcc0tslTBYV66Fsej4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421440275911-5ckmg1jl24nt8cvhkv3ktst4qv9c4ake.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
